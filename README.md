@@ -1,7 +1,7 @@
 # My_udemy_bash_project
 
 ##luser-demo01.sh
-- Getting Started with Shell Scripting; Naming, permission, Variables, Variables, Builtins
+- Getting Started with Shell Scripting; Naming, permission, Variables, Variables, Builtins (My_udemy_bash_project/luser-demo01.sh)
 
 ##luser-demo02.sh
 - Speciale Variables, Command Substitution, if statement, Conditionals
