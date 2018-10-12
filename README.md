@@ -4,4 +4,4 @@
 - [Getting Started with Shell Scripting; Naming, permission, Variables, Variables, Builtins](./luser-demo01.sh)
 
 ##luser-demo02.sh
-- Speciale Variables, Command Substitution, if statement, Conditionals
+- [Speciale Variables, Command Substitution, if statement, Conditionals](./luser-demo02.sh)
